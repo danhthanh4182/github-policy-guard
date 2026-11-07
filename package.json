@@ -1,0 +1,19 @@
+{
+  "name": "github-policy-guard",
+  "version": "1.0.0",
+  "description": "Automated security compliance and anti-malware guardrails for AI coding agents",
+  "main": "SKILL.md",
+  "keywords": [
+    "ai-agents",
+    "codex",
+    "claude-code",
+    "opencode",
+    "skills",
+    "skills.sh",
+    "security",
+    "github-policy",
+    "guardrails"
+  ],
+  "author": "Thanh Danh <danhthanh418@gmail.com>",
+  "license": "MIT"
+}
