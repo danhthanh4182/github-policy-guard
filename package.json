@@ -1,15 +1,23 @@
 {
   "name": "github-policy-guard",
   "version": "1.0.0",
-  "description": "Automated security compliance and anti-malware guardrails for AI coding agents",
+  "description": "Enforce GitHub Acceptable Use Policies and anti-malware/anti-PUA hygiene across all AI coding agents.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danhthanh4182/github-policy-guard.git"
+  },
+  "homepage": "https://github.com/danhthanh4182/github-policy-guard#readme",
+  "bugs": {
+    "url": "https://github.com/danhthanh4182/github-policy-guard/issues"
+  },
   "main": "SKILL.md",
   "keywords": [
+    "skill",
+    "skills",
     "ai-agents",
     "codex",
     "claude-code",
     "opencode",
-    "skills",
-    "skills.sh",
     "security",
     "github-policy",
     "guardrails"
