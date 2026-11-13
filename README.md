@@ -27,7 +27,7 @@ Install this skill into your local AI agent environment using the `skills.sh` CL
 
 ```bash
 # Add to your current project or global agent environment
-npx skills add danhthanh4182/github-policy-guard
+npx skills add danhthanh418/github-policy-guard
 ```
 
 Supported agent runtimes:
