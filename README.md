@@ -5,6 +5,8 @@
 </p>
 
 > **Automated anti-malware, anti-PUA, and security compliance skill for AI Coding Agents.**  
+> Prevent coding agents from generating code patterns, scripts, or release artifacts that violate GitHub Acceptable Use Policies or trigger automated false-positive suspensions.
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![skills.sh](https://img.shields.io/badge/skills.sh-github--policy--guard-blueviolet)](https://skills.sh/danhthanh4182/github-policy-guard)
 
