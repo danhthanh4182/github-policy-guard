@@ -16,7 +16,9 @@
     "README.md",
     "LICENSE",
     "SECURITY.md",
-    "PRIVACY.md"
+    "PRIVACY.md",
+    "logo.svg",
+    "logo.png"
   ],
   "keywords": [
     "skill",
