@@ -1,6 +1,6 @@
 {
   "name": "github-policy-guard",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Enforce GitHub Acceptable Use Policies and anti-malware/anti-PUA hygiene across all AI coding agents.",
   "repository": {
     "type": "git",
