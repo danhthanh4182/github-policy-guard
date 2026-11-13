@@ -11,6 +11,13 @@
     "url": "https://github.com/danhthanh4182/github-policy-guard/issues"
   },
   "main": "SKILL.md",
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "LICENSE",
+    "SECURITY.md",
+    "PRIVACY.md"
+  ],
   "keywords": [
     "skill",
     "skills",
